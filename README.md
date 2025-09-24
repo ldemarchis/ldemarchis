@@ -3,7 +3,7 @@
 Developer Evangelist • Oracle Database 23ai • Generative AI • ML&AI
 
 
-[GitHub](https://github.com/ldemarchis) • [Linkedin](https://www.linkedin.com/in/lorenzodemarchis/)
+🔗 [GitHub](https://github.com/ldemarchis) • [Linkedin](https://www.linkedin.com/in/lorenzodemarchis/)
 
 ---
 
