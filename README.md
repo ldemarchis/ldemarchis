@@ -28,7 +28,7 @@ Developer Evangelist • Oracle Database 23ai • Generative AI • ML&AI
 Here are some of the repositories I contributed to:
   
 - **[Oracle AI Optimizer and Toolkit](https://github.com/oracle/ai-optimizer)** —  A streamlined environment where developers and data scientists can explore the potential of Generative Artificial Intelligence (GenAI) combined with Retrieval-Augmented Generation (RAG) capabilities 
-- **[spring-cloud-oracle](https://github.com/oracle/spring-cloud-oracle)** — Tools/framework to simplify using Oracle DB and OCI services from Spring applications
+- **[Spring Cloud Oracle](https://github.com/oracle/spring-cloud-oracle)** — Tools/framework to simplify using Oracle DB and OCI services from Spring applications
 - **[Oracle Backend for Microservices and AI](https://github.com/oracle/microservices-datadriven)** — Sample code for simplifying microservices architectures through Oracle Database
 
 ---
@@ -36,7 +36,7 @@ Here are some of the repositories I contributed to:
 ## ✉️ Let’s Connect  
 
 - Feel free to open issues or pull requests on my repos  
-- Reach me via my GitHub/Linkedin profile or email (if listed in repos)  
+- Reach me via my GitHub/Linkedin profile or email  
 - I’m happy to chat about open source, AI systems, or distributed architecture  
 
 ---
